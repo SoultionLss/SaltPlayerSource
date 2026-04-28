@@ -30,6 +30,7 @@ body:
       options:
         - label: Android
         - label: Windows
+        - label: HarmonyOS
     validations:
       required: true
 
